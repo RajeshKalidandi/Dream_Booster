@@ -1,7 +1,7 @@
 remote: true
 
 experienceLevel:
-  internship: false
+  internship: true
   entry: true
   associate: true
   mid-senior level: true
@@ -13,7 +13,7 @@ jobTypes:
   contract: false
   part-time: false
   temporary: true
-  internship: false
+  internship: true
   other: false
   volunteer: true
 
@@ -24,11 +24,10 @@ date:
   24 hours: true
 
 positions:
-  - Software engineer
+  - Frontend Developer
 
 locations:
-  - Germany
-
+  - Hyderabad
 apply_once_at_company: true
 
 distance: 100
@@ -47,7 +46,7 @@ job_applicants_threshold:
 
 llm_model_type: ollama
 llm_model: 'llama3.2:3b'
-llm_api_url: 'http://127.0.0.1:11434/'
+llm_api_url: 'http://127.0.0.1:11434'
 
 # New Features
 follow_up_emails:
@@ -73,3 +72,14 @@ ui_enhancements:
 performance_optimization:
   cache_results: true
   parallel_processing: true
+
+portal_name: LinkedIn
+
+job_portals:
+  - name: LinkedIn
+    login_url: "https://www.linkedin.com/login"
+    feed_url: "https://www.linkedin.com/feed"
+    login_element: "password"
+    feed_element: "share-box-feed-entry__trigger"
+    profile_image_xpath: "//img[contains(@alt, 'Photo of')]"
+    security_check_url: "https://www.linkedin.com/checkpoint/challengesV2/"
