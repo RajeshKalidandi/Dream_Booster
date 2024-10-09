@@ -1,4 +1,21 @@
+<<<<<<< HEAD
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalidandiirajesh@gmail.com)
+=======
+<div align="center">
+<img src="./assets/AIHawk.png">
+
+<!-- At first glance, the branding and messaging clearly conveys what to expect -->
+
+
+  <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIhawkCommunity) -->
+ 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalidandiirajesh@gmail.com)
+
+  # Dream Booster
+  ![CI](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/actions/workflows/ci.yml/badge.svg)
+
+  #### 🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.
+>>>>>>> 5b0db2b4061b08ede9c74917ebce9f9aa74793d7
 
 # Dream Booster: AI-Powered Job Application Assistant
 
