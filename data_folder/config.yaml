@@ -45,6 +45,31 @@ job_applicants_threshold:
   min_applicants: 0
   max_applicants: 30
 
-llm_model_type: openai
-llm_model: 'gpt-4o-mini'
-# llm_api_url: https://api.pawan.krd/cosmosrp/v1'
+llm_model_type: ollama
+llm_model: 'llama3.2:3b'
+llm_api_url: 'http://127.0.0.1:11434/'
+
+# New Features
+follow_up_emails:
+  enabled: true
+  interval: 7  # Days
+
+job_matching_algorithm:
+  match_threshold: 0.75  # Minimum match score to consider a job
+  keywords:
+    - Python
+    - Java
+    - AI
+    - Frontend
+    - Frontend Development
+    - Data Analysis
+    - Software Development
+
+ui_enhancements:
+  dashboard: true
+  custom_themes: true
+  notifications: true
+
+performance_optimization:
+  cache_results: true
+  parallel_processing: true

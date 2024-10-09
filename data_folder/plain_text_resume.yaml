@@ -1,130 +1,150 @@
 personal_information:
-  name: "[Your Name]"
-  surname: "[Your Surname]"
-  date_of_birth: "[Your Date of Birth]"
-  country: "[Your Country]"
-  city: "[Your City]"
-  address: "[Your Address]"
-  zip_code: "[Your zip code]"
-  phone_prefix: "[Your Phone Prefix]"
-  phone: "[Your Phone Number]"
-  email: "[Your Email Address]"
-  github: "[Your GitHub Profile URL]"
-  linkedin: "[Your LinkedIn Profile URL]"
+  name: "Rajesh"
+  surname: "Kalidandi"
+  country: "India"
+  city: "Hyderabad"
+  phone_prefix: "+91"
+  phone: "8688586373"
+  email: "kalidandiirajesh@gmail.com"
+  github: "https://github.com/RajeshKalidandi"
+  linkedin: "https://www.linkedin.com/in/rajesh-kalidandi"
+
+professional_summary: >
+  Highly motivated and results-driven Computer Science and Engineering student with hands-on experience in data analysis, 
+  software development, and AI/ML projects. Proven ability to enhance system efficiency, design innovative solutions, 
+  and drive impactful results. Adept at collaborating with cross-functional teams and applying cutting-edge technologies 
+  to real-world problems. Seeking to leverage technical skills and creative problem-solving in a challenging role.
 
 education_details:
-  - education_level: "[Your Education Level]"
-    institution: "[Your Institution]"
-    field_of_study: "[Your Field of Study]"
-    final_evaluation_grade: "[Your Final Evaluation Grade]"
-    start_date: "[Start Date]"
-    year_of_completion: "[Year of Completion]"
-    exam:
-      exam_name_1: "[Grade]"
-      exam_name_2: "[Grade]"
-      exam_name_3: "[Grade]"
-      exam_name_4: "[Grade]"
-      exam_name_5: "[Grade]"
-      exam_name_6: "[Grade]"
+  - education_level: "B.Tech"
+    institution: "Malla Reddy Engineering College"
+    field_of_study: "Computer Science & Engineering (AI & ML)"
+    year_of_completion: "Expected 2025"
+
+skills:
+  programming_languages:
+    - Python
+    - Java
+    - HTML
+    - CSS
+    - Node.js
+  ai_ml:
+    - Generative AI
+    - Natural Language Processing (NLP)
+    - Data Analysis
+  frameworks:
+    - Next.js 14
+    - React
+    - Tailwind CSS
+    - Typescript
+  databases:
+    - SQL
+    - MongoDB
+    - Firebase
+  tools:
+    - GitHub
+    - Postman
+  other_skills:
+    - Prompt Engineering
+    - Digital Marketing
+    - Content Creation
+    - SaaS & No Code Development
 
 experience_details:
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
+  - position: "Data Analyst Virtual Intern"
+    company: "Accenture North America"
+    employment_period: "Dec 2023"
     key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
-    skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
+      - responsibility: "Analyzed and cleaned seven datasets for a social media client, uncovering actionable insights that informed strategic decision-making."
+      - responsibility: "Modeled data to generate visualizations and presented findings via PowerPoint and video, improving client engagement and decision-making processes."
 
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
+  - position: "Software Engineer Virtual Intern"
+    company: "Walmart USA"
+    employment_period: "Dec 2023"
     key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
-    skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
+      - responsibility: "Developed a novel heap data structure in Java, improving sorting efficiency by 20% and optimizing data processing for the shipping department."
+      - responsibility: "Designed and implemented UML class and ER diagrams, enhancing database systems and reducing data retrieval times by 15%."
+
+  - position: "AI Project Virtual Intern"
+    company: "Cognizant"
+    employment_period: "Dec 2023"
+    key_responsibilities:
+      - responsibility: "Conducted exploratory data analysis for Gala Groceries using Python, significantly improving the performance of machine learning models."
+      - responsibility: "Developed a Python module to train models and generate performance metrics, effectively communicating results to business stakeholders through presentations."
 
 projects:
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
+  - name: "TrackMyDrive- India's Driving School App"
+    description: "Created a comprehensive platform for discovering driving schools, managing bookings, engaging with the community, and accessing learning resources."
 
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
-
-achievements:
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
+  - name: "Steve- The Voice Assistant with Smart Blind Stick"
+    description: "Developed an AI-powered assistant using Arduino and Python (OpenAI API) to aid visually impaired users in navigating their surroundings. Secured a patent for this innovative assistive technology, demonstrating its unique value and impact."
 
 certifications:
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
+  - "Data Analysis with Python (freeCodeCamp)"
+  - "Databricks Accredited Generative AI Fundamentals"
+  - "Walmart Global Tech Advanced Software Engineering Job Simulation"
+  - "Accenture Data Analytics and Visualization Job Simulation"
+  - "UiPath Automation Starter"
+  - "Cisco Python Essentials 1 & 2"
+  - "Microsoft Azure Fundamentals"
+  - "AWS Foundations of Prompt Engineering"
+  - "IBM Prompt Engineering for Everyone"
+
+achievements:
+  - "Patent: Steve- The Voice Assistant with Smart Blind Stick"
+  - "Flipkart GRID 8.0 Software Development"
+  - "Student Ambassador: Internshala, LetsUpgrade, eDC IIT Delhi"
 
 languages:
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
+  - language: "English"
+    proficiency: "Fluent"
+  - language: "Telugu"
+    proficiency: "Native"
+  - language: "Hindi"
+    proficiency: "Intermediate"
 
 interests:
-  - "[Interest]"
-  - "[Interest]"
-  - "[Interest]"
+  - "Full Stack Development"
+  - "Artificial Intelligence"
+  - "Open Source Projects"
+  - "Digital Marketing"
+  - "Entrepreneurship"
 
 availability:
-  notice_period: "[Notice Period]"
+  notice_period: "2 weeks"
 
 salary_expectations:
-  salary_range_usd: "[Salary Range]"
+  salary_range_usd: "700000 - 1200000"
 
 self_identification:
-  gender: "[Gender]"
-  pronouns: "[Pronouns]"
-  veteran: "[Yes/No]"
-  disability: "[Yes/No]"
-  ethnicity: "[Ethnicity]"
-
+  gender: "Male"
+  pronouns: "He/Him"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
 
 legal_authorization:
-  eu_work_authorization: "[Yes/No]"
-  us_work_authorization: "[Yes/No]"
-  requires_us_visa: "[Yes/No]"
-  requires_us_sponsorship: "[Yes/No]"
-  requires_eu_visa: "[Yes/No]"
-  legally_allowed_to_work_in_eu: "[Yes/No]"
-  legally_allowed_to_work_in_us: "[Yes/No]"
-  requires_eu_sponsorship: "[Yes/No]"
-  canada_work_authorization: "[Yes/No]"
-  requires_canada_visa: "[Yes/No]"
-  legally_allowed_to_work_in_canada: "[Yes/No]"
-  requires_canada_sponsorship: "[Yes/No]"
-  uk_work_authorization: "[Yes/No]"
-  requires_uk_visa: "[Yes/No]"
-  legally_allowed_to_work_in_uk: "[Yes/No]"
-  requires_uk_sponsorship: "[Yes/No]"
-
+  eu_work_authorization: "No"
+  us_work_authorization: "No"
+  requires_us_visa: "Yes"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "Yes"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "No"
+  requires_eu_sponsorship: "Yes"
+  canada_work_authorization: "No"
+  requires_canada_visa: "Yes"
+  legally_allowed_to_work_in_canada: "No"
+  requires_canada_sponsorship: "Yes"
+  uk_work_authorization: "No"
+  requires_uk_visa: "Yes"
+  legally_allowed_to_work_in_uk: "No"
+  requires_uk_sponsorship: "Yes"
 
 work_preferences:
-  remote_work: "[Yes/No]"
-  in_person_work: "[Yes/No]"
-  open_to_relocation: "[Yes/No]"
-  willing_to_complete_assessments: "[Yes/No]"
-  willing_to_undergo_drug_tests: "[Yes/No]"
-  willing_to_undergo_background_checks: "[Yes/No]"
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
